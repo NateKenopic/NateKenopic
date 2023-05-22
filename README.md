@@ -13,8 +13,9 @@
 
 ## Here are the programming tools and languages I've learned:
 
-| ![alt text](https://freeiconshop.com/wp-content/uploads/edd/html-flat.png "HTML Logo") | ![alt text](https://freeiconshop.com/wp-content/uploads/edd/css-flat.png "CSS Logo") | ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") |
+| ![html](https://github.com/NateKenopic/NateKenopic/assets/65503430/62a98328-1f0a-4e0c-ae35-fc9461a71491) | ![css](https://github.com/NateKenopic/NateKenopic/assets/65503430/24ec4e87-fb0b-4cfa-8418-9f60f3d567ce) | ![js](https://github.com/NateKenopic/NateKenopic/assets/65503430/d2effc2a-5a99-4951-965f-e704f6b1ad89) |
 | --- | --- | --- |
-| ![alt text](https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png "Java Logo") | ![alt text](https://cdn.iconscout.com/icon/free/png-256/free-c-57-1175191.png?f=webp "C Logo") | ![c++](https://github.com/NateKenopic/NateKenopic/assets/65503430/a96da08e-5d2a-4eed-9d1d-5e8f594f9a08) |
-| ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") | ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") | ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") |
-| ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") | ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") | ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") |
+| ![c](https://github.com/NateKenopic/NateKenopic/assets/65503430/c34fd938-5fd4-4d15-b20e-4e27ddeaaed5) | ![cpp](https://github.com/NateKenopic/NateKenopic/assets/65503430/8d2fd3fc-7e3a-43ed-9613-b63ded5d116a) | ![java](https://github.com/NateKenopic/NateKenopic/assets/65503430/a97abfe2-498e-480d-983c-7f2f2e3cbaac) |
+| ![python](https://github.com/NateKenopic/NateKenopic/assets/65503430/54aab6ec-6a64-46ac-a712-69e3afe8b78a) | ![react](https://github.com/NateKenopic/NateKenopic/assets/65503430/c11550f5-f181-4b32-b764-e9cdeb1723e3) |![nodejs](https://github.com/NateKenopic/NateKenopic/assets/65503430/b8e43425-0e35-464b-82ea-7349cce3ab7c) |
+| ![mysql](https://github.com/NateKenopic/NateKenopic/assets/65503430/4e8c87f7-8998-45f2-b024-1b2cc0b415fe)|  |  |
+|  |  |  |
