@@ -15,6 +15,6 @@
 
 | ![alt text](https://freeiconshop.com/wp-content/uploads/edd/html-flat.png "HTML Logo") | ![alt text](https://freeiconshop.com/wp-content/uploads/edd/css-flat.png "CSS Logo") | ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") |
 | --- | --- | --- |
-| Skill | Skill | Skill |
-| Skill | Skill | Skill |
-| Skill | Skill | Skill |
+| ![alt text](https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png "Java Logo") | ![alt text](https://cdn.iconscout.com/icon/free/png-256/free-c-57-1175191.png?f=webp "C Logo") | ![c++](https://github.com/NateKenopic/NateKenopic/assets/65503430/a96da08e-5d2a-4eed-9d1d-5e8f594f9a08) |
+| ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") | ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") | ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") |
+| ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") | ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") | ![alt text](https://mdlstudio.org/wp-content/uploads/2022/10/javascript-2752148-2284965.png "JS Logo") |
