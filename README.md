@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I lovveeeee reading, music production, video games, and sports ([hockey](https://www.nhl.com/mapleleafs), [baseball](https://www.mlb.com/bluejays), [football](https://www.nfl.com/teams/pittsburgh-steelers/))
 
-### Check out my [Repositories](https://github.com/NateKenopic?tab=repositories) to see my work!
+### Check out my [Repositories](https://github.com/NateKenopic?tab=repositories) to see my work! also here's my main full-stack social media app project [link](https://github.com/Nate-K0/SeneConnectApp)
 
 ## Here are the programming tools and languages I've learned:
 
