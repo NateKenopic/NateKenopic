@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Nathan!
+![Alt text](./nathan-logo.svg)
+<img src="./nathan-logo.svg">
 ### Welcome to my profile!
 
 ### Here's my Portfolio Website, take a look! https://www.nathankenopic.ca/
