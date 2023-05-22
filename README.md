@@ -13,7 +13,8 @@
 
 ## Here are the programming tools and languages I've learned:
 
-| ![alt text](https://cdn-icons-png.flaticon.com/512/919/919827.png "HTML Logo") | ![alt text](https://cdn-icons-png.flaticon.com/512/5968/5968242.png "CSS Logo") | ![alt text]([https://cdn-icons-png.flaticon.com/512/5968/5968242.png](https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png) "JS Logo") |
+| ![alt text](https://cdn-icons-png.flaticon.com/512/919/919827.png "HTML Logo") | ![alt text](https://cdn-icons-png.flaticon.com/512/5968/5968242.png "CSS Logo") | ![alt text](https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png) "JS Logo") |
+| --- | --- | --- |
 | Skill | Skill | Skill |
 | Skill | Skill | Skill |
 | Skill | Skill | Skill |
