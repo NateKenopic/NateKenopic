@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning PHP, SQLite, and expanding my skills on the tools I've learned
 - 📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/nathankenopic/) or preferably via email at nkenopic@outlook.com
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I lovveeeee reading, music production, video games, and sports (hockey, baseball, football)
+- ⚡ Fun fact: I lovveeeee reading, music production, video games, and sports ([hockey](https://www.nhl.com/mapleleafs), [baseball](https://www.mlb.com/bluejays), [football](https://www.nfl.com/teams/pittsburgh-steelers/))
 
 ### Check out my [Repositories](https://github.com/NateKenopic?tab=repositories) to see my work!
 
