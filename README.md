@@ -12,7 +12,7 @@
 
 ### Check out my [Repositories](https://github.com/NateKenopic?tab=repositories) to see my work! also here's my main project: full-stack social media app [SeneConnect](https://github.com/Nate-K0/SeneConnectApp)
 
-## Here are the programming **tools** and **languages** I've learned:
+## Here are the programming tools and languages I've learned:
 
 | ![html](https://github.com/NateKenopic/NateKenopic/assets/65503430/62a98328-1f0a-4e0c-ae35-fc9461a71491) HTML | ![css](https://github.com/NateKenopic/NateKenopic/assets/65503430/24ec4e87-fb0b-4cfa-8418-9f60f3d567ce) CSS | ![js](https://github.com/NateKenopic/NateKenopic/assets/65503430/d2effc2a-5a99-4951-965f-e704f6b1ad89) JS |
 | --- | --- | --- |
