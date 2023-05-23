@@ -8,11 +8,11 @@
 - 🌱 I’m currently learning PHP, SQLite, and expanding my skills on the tools I've learned
 - 📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/nathankenopic/) or preferably via email at nkenopic@outlook.com
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I lovveeeee reading, music production, video games, and sports ([hockey](https://www.nhl.com/mapleleafs), [baseball](https://www.mlb.com/bluejays), [football](https://www.nfl.com/teams/pittsburgh-steelers/))
+- ⚡ Fun fact: I lovveeeee reading, music production, video games, and sports (_[hockey](https://www.nhl.com/mapleleafs)_, _[baseball](https://www.mlb.com/bluejays)_, _[football](https://www.nfl.com/teams/pittsburgh-steelers/)_)
 
-### Check out my [Repositories](https://github.com/NateKenopic?tab=repositories) to see my work! also here's my main full-stack social media app project [link](https://github.com/Nate-K0/SeneConnectApp)
+### Check out my [Repositories](https://github.com/NateKenopic?tab=repositories) to see my work! also here's my main project: full-stack social media app [SeneConnect](https://github.com/Nate-K0/SeneConnectApp)
 
-## Here are the programming tools and languages I've learned:
+## Here are the programming **tools** and **languages** I've learned:
 
 | ![html](https://github.com/NateKenopic/NateKenopic/assets/65503430/62a98328-1f0a-4e0c-ae35-fc9461a71491) HTML | ![css](https://github.com/NateKenopic/NateKenopic/assets/65503430/24ec4e87-fb0b-4cfa-8418-9f60f3d567ce) CSS | ![js](https://github.com/NateKenopic/NateKenopic/assets/65503430/d2effc2a-5a99-4951-965f-e704f6b1ad89) JS |
 | --- | --- | --- |
