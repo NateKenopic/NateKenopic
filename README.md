@@ -4,7 +4,7 @@
 
 ### Here's my Portfolio Website, take a look! https://www.nathankenopic.ca/
 
-- 🔭 I’m currently working on Full-Stack Web Development, Software Development, and Game Development
+- 🔭 I’m currently working on **_Full-Stack Web Development_, _Software Development_, and _Game Development_**
 - 🌱 I’m currently learning PHP, SQLite, and expanding my skills on the tools I've learned
 - 📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/nathankenopic/) or preferably via email at nkenopic@outlook.com
 - 😄 Pronouns: He/Him 
